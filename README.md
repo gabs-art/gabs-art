@@ -21,10 +21,8 @@
     <div>
         <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" /> 
         <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
-        <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
         <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
         <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />        
-        <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
     </div>    
 </main>
 
@@ -32,10 +30,11 @@
 > Ferramentas e linguagens que ainda estou aprendendo
 <main>
     <div>  
+        <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
         <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />  
-         <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
         <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-        <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />  
+        <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+        <img style="margin-left:10px; width:60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
     </div>    
 </main>
 

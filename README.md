@@ -19,7 +19,9 @@
 > Ferramentas e linguagens que ainda estou aprendendo
 <main>
     <div>  
-        <img style="margin-left:10px; width:60px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+        <img style="margin-left:10px; width:60px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
+        <img style="margin-left:10px; width:60px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+        <img style="margin-left:10px; width:60px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
         <img style="margin-left:10px; width:60px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
     </div>    
 </main>

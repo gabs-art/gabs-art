@@ -10,7 +10,7 @@
 
 
 - Sou estudante de [**Ciência da Computação**](https://uvv.br/cursos/graduacao/presencial/ciencia-da-computacao/) na [**UVV**](https://uvv.br/)
-- 21 anos
+- 22 anos
 - Nacionalidade brasileira
 
 <br>

@@ -1,7 +1,7 @@
 
 <h2 align="center">Olá! Eu sou o Gabriel 👋</h2>
 
-<p align="center">Especializado em tecnologias de nuvem. Possuo experiência de projetos em cloud, além de habilidades em golang. Minha paixão está em explorar soluções escaláveis e resilientes, utilizando as melhores práticas de DevOps para otimizar operações na nuvem e garantir alta disponibilidade e segurança dos sistemas.</p>
+<p align="center">Especializado em infraestrutura. Possuo experiência de projetos em cloud, além de habilidades em python. Minha paixão está em explorar soluções escaláveis e resilientes, utilizando as melhores práticas para otimizar operações na infraestrutura e garantir alta disponibilidade e segurança dos sistemas.</p>
 
 ## _Sobre mim..._
 
